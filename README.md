@@ -1,5 +1,7 @@
 # Cyber-Threat-Inetelligence-CTI-Investigation-Lab-APT29-Infrastructure-Modelling
 
+![OpenCTI STIX Graph](APT29ThreatGraph.png)
+
 ## Overview
 
 This repository documents an end-to-end Cyber Threat Intelligence (CTI) investigation into state-sponsored threat actor APT29 (Midnight Blizzard / Cozy Bear). Using an enterprise OpenCTI deployment, unstructured indicators were structured into STIX 2.1 domain objects, mapped against the MITRE ATT&CK matrix, and visualized to enable actionable detection engineering.
